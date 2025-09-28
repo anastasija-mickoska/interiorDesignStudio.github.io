@@ -1,0 +1,1 @@
+This project is a basic web application built using HTML, CSS, and JavaScript for an interior design studio. The application provides a clean and responsive interface that includes an About Us page, a Services section showcasing the studio’s offerings, a Contact section for sending a message, and a Portfolio section displaying completed design projects.
